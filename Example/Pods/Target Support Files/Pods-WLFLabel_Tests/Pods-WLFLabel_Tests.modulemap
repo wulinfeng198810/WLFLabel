@@ -1,0 +1,6 @@
+framework module Pods_WLFLabel_Tests {
+  umbrella header "Pods-WLFLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
